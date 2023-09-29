@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/bmi"
+    android:title="BMI"
+    android:icon="@drawable/bmi"
+    />
+    <item android:id="@+id/cal"
+        android:title="Calculator"
+        android:icon="@drawable/calculator"
+        />
+    <item android:id="@+id/tem"
+        android:title="Temperature"
+        android:icon="@drawable/hot"
+        />
+</menu>
